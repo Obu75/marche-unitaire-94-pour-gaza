@@ -1,7 +1,7 @@
 ---
 title: "1000 Madleen to Gaza"
 order: 1
-in_menu: true
+in_menu: false
 ---
 ![1000 Madleen pour Gaza]({% link images/Logo-Thousand-Madleens-to-Gaza-France-150x150.jpg %})
 ## Thousand Madleens to Gaza
