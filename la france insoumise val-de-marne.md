@@ -1,6 +1,6 @@
 ---
 title: "La France insoumise Val-de-Marne"
-order: 4
-in_menu: true
+order: 3
+in_menu: false
 ---
 ![Texte décrivant l'image]({% link images/LFI invite.jpg %}) 
