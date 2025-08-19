@@ -1,5 +1,5 @@
 ---
-title: "Mouvement contre le racisme et pour l'amitié entre les peuples 94"
+title: "mrap"
 order: 4
 in_menu: false
 ---
