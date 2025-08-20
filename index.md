@@ -12,3 +12,5 @@ in_menu: true
 ![La France insoumise]({% link images/LFI.png %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
 
 ![Mouvement contre le racisme et pour l'amitié entre les peuples]({% link images/MRAP.png %}) [Mouvement contre le racisme et pour l'amitié entre les peuples](https://obu75.github.io/marche-unitaire-94-pour-gaza/mrap.html)
+
+![Parti ouvrier indépendant]({% link images/POI.png %}) [Parti ouvrier indépendant](https://obu75.github.io/marche-unitaire-94-pour-gaza/poi.html)
