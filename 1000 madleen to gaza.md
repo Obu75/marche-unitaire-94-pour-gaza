@@ -4,7 +4,6 @@ order: 2
 in_menu: false
 ---
 ![1000 Madleen pour Gaza]({% link images/Logo-Thousand-Madleens-to-Gaza-France-150x150.jpg %})
-## Thousand Madleens to Gaza
 ### COMMUNIQUÉ DE PRESSE
 
 En septembre, une flottille internationale et citoyenne prendra le large vers Gaza pour briser le
