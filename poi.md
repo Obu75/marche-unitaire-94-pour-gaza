@@ -17,4 +17,4 @@ Macron et son gouvernement sont impliqués jusqu’au cou dans le soutien au gé
 
 Face à cette situation d’ensemble, le mot d’ordre « on bloque tout » lancé pour le 10 septembre est un début de réponse, car seul le peuple, celui des Gilets jaunes, celui du drapeau palestinien, est en capacité de bloquer la marche à la barbarie.
 
-![[meeting_5_oct.pdf]]
+![[]](https://github.com/user-attachments/files/21886547/meeting_5_oct.pdf)
