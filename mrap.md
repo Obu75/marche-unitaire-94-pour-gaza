@@ -4,7 +4,6 @@ order: 4
 in_menu: false
 ---
 ![Mouvement contre le racisme et pour l'amitié entre les peuples 94]({% link images/MRAP.png %})
-## Mouvement contre le racisme et pour l'amitié entre les peuples 94
 Le Mrap (Mouvement contre le Racisme et pour l’Amitié entre les Peuples) réclame et n’a eu de cesse de réclamer :
 - la fin de l’occupation, de la colonisation et de la politique d’apartheid de l’État d’Israël ;
 - la protection du peuple palestinien ;
