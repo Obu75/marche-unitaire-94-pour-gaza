@@ -4,7 +4,7 @@ order: 5
 in_menu: false
 ---
 # Parti ouvrier indépendant
-![Parti ouvrier indépendant]({% link images/poi.png %})
+![Parti ouvrier indépendant]({% link images/POI.png %})
 L’initiative de la marche du 7 septembre « le 94 pour Gaza » fait suite à des manifestations qui ont eu lieu dans le département à l’initiative des organisations de solidarité avec la Palestine et des insoumis. Devant l’intolérable génocide à Gaza et le nettoyage ethnique en Cisjordanie, les manifestations spontanées de solidarité avec le peuple palestinien n’ont pas cessé. Malgré la répression, les intimidations et les calomnies, le mouvement de résistance face à cette barbarie balaye tous les peuples.
 
 Cette question est, à notre avis, indissociable de la guerre en cours au cœur de l’Europe, où des centaines de milliers de Russes et d’Ukrainiens sont tués pour les intérêts de quelques uns. Des centaines de milliers ont fuit : ils ont raison. Ceux qui refusent de tuer et d’être tués pour les groupes que défendent Trump, Poutine et Zelenski, ont raison, tout comme ont mille fois raison ceux qui refusent de servir de bourreaux pour l’armée israélienne.
