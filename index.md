@@ -16,3 +16,5 @@ in_menu: true
 ![Parti ouvrier indépendant]({% link images/POI.png %}) [Parti ouvrier indépendant](https://obu75.github.io/marche-unitaire-94-pour-gaza/poi.html)
 
 ![Pour une écologie populaire et sociale Île-de-France]({% link images/PEPS.jpg %}) Pour une écologie populaire et sociale
+
+![Union juive française pour la paix]({% link images/UJFP.png %}) Union juive française pour la paix
