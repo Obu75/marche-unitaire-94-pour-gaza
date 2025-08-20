@@ -3,7 +3,6 @@ title: "Parti ouvrier indépendant"
 order: 5
 in_menu: false
 ---
-# Parti ouvrier indépendant
 ![Parti ouvrier indépendant]({% link images/POI.png %})
 L’initiative de la marche du 7 septembre « le 94 pour Gaza » fait suite à des manifestations qui ont eu lieu dans le département à l’initiative des organisations de solidarité avec la Palestine et des insoumis. Devant l’intolérable génocide à Gaza et le nettoyage ethnique en Cisjordanie, les manifestations spontanées de solidarité avec le peuple palestinien n’ont pas cessé. Malgré la répression, les intimidations et les calomnies, le mouvement de résistance face à cette barbarie balaye tous les peuples.
 
