@@ -9,6 +9,8 @@ in_menu: true
 
 ![Assemblée des quartiers]({% link images/assemblee_quartiers.jpg %}) Assemblée des quartiers
 
+![Boycott désinvestissement sanction 94]({% link images/BDS94.jpg %}) Boycott désinvestissement sanction 94
+
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
 ![La France insoumise]({% link images/LFI.png %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
