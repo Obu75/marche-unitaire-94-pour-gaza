@@ -25,7 +25,11 @@ Collectif Villeneuve-Saint-Georges Palestine
 
 ![La France insoumise — groupe d'action de Gentilly]({% link images/gentilly.png%}) Groupe d'action LFI de Gentilly
 
+Libre Pensée Val-de-Marne
+
 ![Mouvement contre le racisme et pour l'amitié entre les peuples]({% link images/MRAP.png %}) [Mouvement contre le racisme et pour l'amitié entre les peuples](https://obu75.github.io/marche-unitaire-94-pour-gaza/mrap.html)
+
+![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) Nouveau Parti anticapitaliste
 
 ![Parti ouvrier indépendant]({% link images/POI.png %}) [Parti ouvrier indépendant](https://obu75.github.io/marche-unitaire-94-pour-gaza/poi.html)
 
