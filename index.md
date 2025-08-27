@@ -13,9 +13,13 @@ in_menu: true
 
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
+Collectif Villeneuve-Saint-Georges Palestine
+
 ![Esprit Vitry]({% link images/esprit_vitry.png %}) Esprit Vitry
 
 ![Fresnes Avenir]({% link images/fresnesavenir.jpg %}) Fresnes Avenir
+
+![Initiative citoyenne villeneuvoise]({% link images/ICV.jpeg %}) Initiative citoyenne villeneuvoise
 
 ![La France insoumise]({% link images/LFI.png %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
 
