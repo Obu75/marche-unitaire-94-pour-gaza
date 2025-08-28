@@ -31,13 +31,13 @@ Libre Pensée Val-de-Marne
 
 ![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) Nouveau Parti anticapitaliste
 
+![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Par nous-mêmes — Alfortville
+
 ![Parti ouvrier indépendant]({% link images/POI.png %}) [Parti ouvrier indépendant](https://obu75.github.io/marche-unitaire-94-pour-gaza/poi.html)
 
 ![Pour une écologie populaire et sociale Île-de-France]({% link images/PEPS.jpg %}) Pour une écologie populaire et sociale
 
 ![Révolution écologique pour le vivant]({% link images/REV.png %}) Révolution écologique pour le vivant
-
-![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Solidarité, démocratie, écologie, par nous-mêmes
 
 ![Union juive française pour la paix]({% link images/UJFP.png %}) Union juive française pour la paix
 
