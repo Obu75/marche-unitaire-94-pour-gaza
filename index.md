@@ -37,7 +37,7 @@ Libre Pensée Val-de-Marne
 
 ![Révolution écologique pour le vivant]({% link images/REV.png %}) Révolution écologique pour le vivant
 
-![Solidarité, démocratie, écologie, par nous-mêmes]({% SDEPNM.jpeg %}) Solidarité, démocratie, écologie, par nous-mêmes
+![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Solidarité, démocratie, écologie, par nous-mêmes
 
 ![Union juive française pour la paix]({% link images/UJFP.png %}) Union juive française pour la paix
 
