@@ -27,7 +27,9 @@ Collectif Villeneuve-Saint-Georges Palestine
 
 ![La France insoumise]({% link images/LFI.png %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
 
-![La France insoumise — groupe d'action de Gentilly]({% link images/gentilly.png%}) Groupe d'action LFI de Gentilly
+![La France insoumise — groupe d'action d'Alfortville]({% link images/alfortville.jpeg %}) Groupe d'action LFI d'Alfortville
+
+![La France insoumise — groupe d'action de Gentilly]({% link images/gentilly.png %}) Groupe d'action LFI de Gentilly
 
 Libre Pensée Val-de-Marne
 
