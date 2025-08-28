@@ -21,6 +21,8 @@ Collectif Villeneuve-Saint-Georges Palestine
 
 ![Fresnes Avenir]({% link images/fresnesavenir.jpg %}) Fresnes Avenir
 
+![Front uni de l'immigration et des quartiers populaires]({% link images/FUIQP.jpeg %}) Front uni de l'immigration et des quartiers populaires
+
 ![Initiative citoyenne villeneuvoise]({% link images/ICV.jpeg %}) Initiative citoyenne villeneuvoise
 
 ![La France insoumise]({% link images/LFI.png %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
