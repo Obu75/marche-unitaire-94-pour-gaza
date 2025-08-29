@@ -13,6 +13,8 @@ in_menu: true
 
 ![Boycott désinvestissement sanction 94]({% link images/BDS94.jpg %}) Boycott désinvestissement sanction 94
 
+![Collectif Attariq]({# link images/attariq.jpeg #}) Collectif Attariq
+
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
 Collectif Villeneuve-Saint-Georges Palestine
