@@ -11,6 +11,8 @@ in_menu: true
 
 ![Assemblée des quartiers]({% link images/assemblee_quartiers.jpg %}) Assemblée des quartiers
 
+![AFPS Créteil]({% link images/AFPS_creteil.jpg %}) Association France Palestine solidarité — Créteil
+
 ![Boycott désinvestissement sanction 94]({% link images/BDS94.jpg %}) Boycott désinvestissement sanction 94
 
 ![Collectif Attariq]({% link images/attariq.jpeg %}) Collectif Attariq
@@ -18,6 +20,10 @@ in_menu: true
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
 Collectif Villeneuve-Saint-Georges Palestine
+
+![COSPP]({% link images/COSPP.jpg %}) Comité orlysien de solidarité avec le peuple palestinien
+
+![Confédération générale du travail Éduc'action 94]({% link images/CGT_Educ_94.png %}) CGT Éduc'action 94
 
 ![Esprit Vitry]({% link images/esprit_vitry.png %}) Esprit Vitry
 
