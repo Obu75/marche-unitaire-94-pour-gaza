@@ -31,6 +31,8 @@ Collectif Villeneuve-Saint-Georges Palestine
 
 ![Front uni de l'immigration et des quartiers populaires]({% link images/FUIQP.jpeg %}) Front uni de l'immigration et des quartiers populaires
 
+![Association Horizon Atlas Oumma'nitaire Bladi]({% link images/atlas.jpg %}) Horizon Atlas Oumma'nitaire Bladi
+
 ![Initiative citoyenne villeneuvoise]({% link images/ICV.jpeg %}) Initiative citoyenne villeneuvoise
 
 ![La France insoumise]({% link images/LFI94.jpg %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
