@@ -45,6 +45,8 @@ Libre Pensée Val-de-Marne
 
 ![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Par nous-mêmes — Alfortville
 
+![Parti de gauche]({% link images/PG.jpeg %}) Parti de gauche
+
 ![Parti ouvrier indépendant]({% link images/POI.png %}) [Parti ouvrier indépendant](https://obu75.github.io/marche-unitaire-94-pour-gaza/poi.html)
 
 ![Pour une écologie populaire et sociale Île-de-France]({% link images/PEPS.jpg %}) Pour une écologie populaire et sociale
