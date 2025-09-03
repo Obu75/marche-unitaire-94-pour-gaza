@@ -17,6 +17,8 @@ in_menu: true
 
 ![Collectif Attariq]({% link images/attariq.jpeg %}) [Collectif Attariq](https://collectif-attariq.net/wp/appel-a-marcher-pour-la-palestine-le-6-et-contre-la-macronie-le-10/)
 
+![Collectif Ivryens pour la Palestine]({% link images/ivryens.jpeg %}) Collectif Ivryens pour la Palestine
+
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
 Collectif Villeneuve-Saint-Georges Palestine
