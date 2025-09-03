@@ -15,7 +15,7 @@ in_menu: true
 
 ![Boycott désinvestissement sanction 94]({% link images/BDS94.jpg %}) Boycott désinvestissement sanction 94
 
-![Collectif Attariq]({% link images/attariq.jpeg %}) Collectif Attariq
+![Collectif Attariq]({% link images/attariq.jpeg %}) [Collectif Attariq](https://collectif-attariq.net/wp/appel-a-marcher-pour-la-palestine-le-6-et-contre-la-macronie-le-10/)
 
 ![Collectif Palestine Vitry]({% link images/CPV.jpeg %}) Collectif Palestine Vitry
 
@@ -26,6 +26,8 @@ Collectif Villeneuve-Saint-Georges Palestine
 ![Confédération générale du travail Éduc'action 94]({% link images/CGT_Educ_94.png %}) CGT Éduc'action 94
 
 ![Esprit Vitry]({% link images/esprit_vitry.png %}) Esprit Vitry
+
+Fédération syndicale unitaire 94
 
 ![Fresnes Avenir]({% link images/fresnesavenir.jpg %}) Fresnes Avenir
 
@@ -41,7 +43,7 @@ Libre Pensée Val-de-Marne
 
 ![Mouvement contre le racisme et pour l'amitié entre les peuples]({% link images/MRAP.png %}) [Mouvement contre le racisme et pour l'amitié entre les peuples](https://obu75.github.io/marche-unitaire-94-pour-gaza/mrap.html)
 
-![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) Nouveau Parti anticapitaliste
+![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) [Nouveau Parti anticapitaliste](https://www.instagram.com/p/DOHIcl2DB3P/)
 
 ![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Par nous-mêmes — Alfortville
 
