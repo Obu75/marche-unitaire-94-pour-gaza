@@ -27,6 +27,8 @@ Collectif Villeneuve-Saint-Georges Palestine
 
 ![Esprit Vitry]({% link images/esprit_vitry.png %}) Esprit Vitry
 
+Fédération syndicale unitaire 94
+
 ![Fresnes Avenir]({% link images/fresnesavenir.jpg %}) Fresnes Avenir
 
 ![Front uni de l'immigration et des quartiers populaires]({% link images/FUIQP.jpeg %}) Front uni de l'immigration et des quartiers populaires
