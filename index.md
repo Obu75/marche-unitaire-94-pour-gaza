@@ -67,4 +67,6 @@ Libre Pensée Val-de-Marne
 
 ![Urgence Palestine Val-de-Marne]({% link images/UP.png %}) Urgence Palestine Val-de-Marne
 
+![Villiers à venir]({% link images/VAV.jpeg %}) Villiers à venir
+
 ![Vitry rassemblé]({% link images/VR.png %}) Vitry rassemblé
