@@ -57,6 +57,8 @@ Libre Pensée Val-de-Marne
 
 ![Révolution écologique pour le vivant]({% link images/REV.png %}) Révolution écologique pour le vivant
 
+![Tsedek]({% link images/tsedek.png %}) [Tsedek !](https://obu75.github.io/marche-unitaire-94-pour-gaza/tsedek.html)
+
 ![Union juive française pour la paix]({% link images/UJFP.png %}) [Union juive française pour la paix](https://obu75.github.io/marche-unitaire-94-pour-gaza/ujfp.html)
 
 ![Unité citoyenne]({% link images/UC.jpeg %}) Unité citoyenne
