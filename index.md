@@ -61,6 +61,8 @@ Libre Pensée Val-de-Marne
 
 ![Union juive française pour la paix]({% link images/UJFP.png %}) [Union juive française pour la paix](https://obu75.github.io/marche-unitaire-94-pour-gaza/ujfp.html)
 
+![Union pour la reconstruction communiste]({% link images/URC.png %}) Union pour la reconstruction communiste
+
 ![Unité citoyenne]({% link images/UC.jpeg %}) Unité citoyenne
 
 ![Urgence Palestine Val-de-Marne]({% link images/UP.png %}) Urgence Palestine Val-de-Marne
