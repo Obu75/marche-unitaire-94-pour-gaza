@@ -41,7 +41,7 @@ Fédération syndicale unitaire 94
 
 ![La France insoumise]({% link images/LFI94.jpg %}) [La France insoumise](https://obu75.github.io/marche-unitaire-94-pour-gaza/la%20france%20insoumise%2094.html)
 
-Libre Pensée Val-de-Marne
+![Fédération nationale de la Libre Pensée]({% link images/FNLP.jpg %}) [Libre Pensée Val-de-Marne](https://obu75.github.io/marche-unitaire-94-pour-gaza/fnlp.html)
 
 ![Mouvement contre le racisme et pour l'amitié entre les peuples]({% link images/MRAP.png %}) [Mouvement contre le racisme et pour l'amitié entre les peuples](https://obu75.github.io/marche-unitaire-94-pour-gaza/mrap.html)
 
