@@ -7,6 +7,8 @@ in_menu: true
 
 ![1000 Madleen pour Gaza]({% link images/Logo-Thousand-Madleens-to-Gaza-France-150x150.jpg %}) [1000 Madleen pour Gaza](https://obu75.github.io/marche-unitaire-94-pour-gaza/1000%20madleen%20to%20gaza.html)
 
+Agir pour Orly
+
 ![Association Accès Chevilly]({% link images/acces.jpg %}) Accès — Chevilly-Larue
 
 ![Assemblée des quartiers]({% link images/assemblee_quartiers.jpg %}) Assemblée des quartiers
@@ -36,6 +38,8 @@ Fédération syndicale unitaire 94
 ![Front uni de l'immigration et des quartiers populaires]({% link images/FUIQP.jpeg %}) Front uni de l'immigration et des quartiers populaires
 
 ![Association Horizon Atlas Oumma'nitaire Bladi]({% link images/atlas.jpg %}) Horizon Atlas Oumma'nitaire Bladi
+
+Génération.s
 
 ![Initiative citoyenne villeneuvoise]({% link images/ICV.jpeg %}) Initiative citoyenne villeneuvoise
 
