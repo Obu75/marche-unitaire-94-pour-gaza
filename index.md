@@ -49,7 +49,7 @@ Génération.s
 
 ![Mouvement contre le racisme et pour l'amitié entre les peuples]({% link images/MRAP.png %}) [Mouvement contre le racisme et pour l'amitié entre les peuples](https://obu75.github.io/marche-unitaire-94-pour-gaza/mrap.html)
 
-![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) [Nouveau Parti anticapitaliste](https://www.instagram.com/p/DOHIcl2DB3P/)
+![Nouveau Parti anticapitaliste — L'Anticapitaliste]({% link images/NPA.jpeg %}) [Nouveau Parti anticapitaliste (NPA-A)](https://www.instagram.com/p/DOHIcl2DB3P/)
 
 ![Solidarité, démocratie, écologie, par nous-mêmes]({% link images/SDEPNM.jpeg %}) Par nous-mêmes — Alfortville
 
