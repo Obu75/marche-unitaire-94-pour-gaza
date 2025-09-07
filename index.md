@@ -15,6 +15,8 @@ Agir pour Orly
 
 ![AFPS Créteil]({% link images/AFPS_creteil.jpg %}) Association France Palestine solidarité — Créteil
 
+![Indignons-nous, bloquons tout ! Val-de-Marne]({% link images/bloquons94.jpeg %}) Indignons-nous, bloquons tout ! 94
+
 ![Boycott désinvestissement sanction 94]({% link images/BDS94.jpg %}) Boycott désinvestissement sanction 94
 
 ![Collectif Attariq]({% link images/attariq.jpeg %}) [Collectif Attariq](https://collectif-attariq.net/wp/appel-a-marcher-pour-la-palestine-le-6-et-contre-la-macronie-le-10/)
